@@ -1,0 +1,8 @@
+{
+  "name": "matt improved calendar",
+  "description": "improve the pop up window when clicking on the panel date and time",
+  "uuid": "matt@mattdecoteau.com",
+  "shell-version": [
+    "46"
+  ]
+}
